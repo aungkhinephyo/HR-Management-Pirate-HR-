@@ -1,0 +1,14 @@
+primary color : #007bff
+secondary color : #efefef
+
+** box-shadow **
+
+header
+0 5px 30px rgba(0, 0, 0, 0.1)
+
+footer
+0 -5px 30px rgba(0, 0, 0, 0.1)
+
+badge
+3px 3px 10px rgba(0, 0, 0, 0.2)
+
